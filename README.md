@@ -10,4 +10,11 @@
 
 3. taxonomy.png: the taxonomy diagram.
 
+4. SLR Diagrams.xlsx: the diagrams created for illustration purposes
+
+5. metrics_definitions_nids_v3.xlsx: unified list of the metrics used in the articles in the investigated corpus along with their very short definitions.
+
+6. nids_dataset_summary_v1.xlsx: unified list of the datasets used in the articles with their short description
+
+7. SLR_AI_SECURITY.txt: Zotero report
 
